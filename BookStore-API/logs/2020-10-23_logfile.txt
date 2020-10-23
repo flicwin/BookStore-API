@@ -1,0 +1,58 @@
+2020-10-23 16:48:54.1623 INFO Attempted to GET all Authors.
+2020-10-23 16:48:55.8516 INFO Successfully GOT all Authors.
+2020-10-23 20:36:17.5712 INFO Attempted to GET author with id: 5.
+2020-10-23 20:36:19.1517 WARN Author with id: 5 was not found.
+2020-10-23 20:38:39.8825 INFO Attempted to GET author with Id:5.
+2020-10-23 20:38:41.5030 WARN Author with Id:5 was not found.
+2020-10-23 20:39:55.1772 INFO Attempted to GET author with Id:1.
+2020-10-23 20:39:57.0859 WARN Author with Id:1 was not found.
+2020-10-23 21:26:17.3847 INFO An Author submission was attempted.
+2020-10-23 21:26:17.5486 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-10-23 21:29:11.8832 INFO An Author submission was attempted.
+2020-10-23 21:29:13.7135 INFO New Author record created successfully.
+2020-10-23 21:59:17.3950 INFO Update Author record attempted with Id:0.
+2020-10-23 21:59:17.4597 WARN An empty Author Update submission was made with Id:0.
+2020-10-23 22:00:24.9855 INFO Update Author record attempted with Id:0.
+2020-10-23 22:00:25.0205 WARN An empty Author Update submission was made with Id:0.
+2020-10-23 22:02:18.6159 INFO Update Author record attempted with Id:0.
+2020-10-23 22:02:18.6360 WARN An empty Author Update submission was made with Id:0.
+2020-10-23 22:04:11.4276 INFO Update Author record attempted with Id:1.
+2020-10-23 22:04:11.6392 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-10-23 22:04:24.5092 INFO Update Author record attempted with Id:1.
+2020-10-23 22:04:24.5316 WARN An empty Author Update submission was made with Id:1.
+2020-10-23 22:06:54.7306 INFO Update Author record attempted with Id:1.
+2020-10-23 22:06:54.7910 WARN An empty Author Update submission was made with Id:1.
+2020-10-23 22:07:12.2310 INFO Update Author record attempted with Id:1.
+2020-10-23 22:07:12.2677 WARN An empty Author Update submission was made with Id:1.
+2020-10-23 22:09:56.4186 INFO Update Author record attempted with Id:1.
+2020-10-23 22:09:56.4790 WARN An empty Author Update submission was made with Id:1.
+2020-10-23 22:10:08.2004 INFO Update Author record attempted with Id:1.
+2020-10-23 22:10:08.2322 WARN An empty Author Update submission was made with Id:1.
+2020-10-23 22:10:59.2469 INFO Update Author record attempted with Id:1.
+2020-10-23 22:13:22.0821 INFO Attempted to GET all Authors.
+2020-10-23 22:13:23.5490 INFO Successfully GOT all Authors.
+2020-10-23 22:13:32.5081 INFO Attempted to GET author with Id:2.
+2020-10-23 22:13:32.7234 INFO Successfully GOT the Author with Id:2.
+2020-10-23 22:24:29.5708 INFO Update Author record attempted with Id:1.
+2020-10-23 22:30:25.4594 INFO Update Author record attempted with Id:1.
+2020-10-23 22:30:25.5237 WARN An empty Author Update submission was made with Id:1.
+2020-10-23 22:30:42.5839 INFO Update Author record attempted with Id:1.
+2020-10-23 22:31:06.2659 INFO Update Author record attempted with Id:1.
+2020-10-23 22:33:12.7458 INFO Update Author record attempted with Id:1.
+2020-10-23 22:34:11.2909 INFO Update Author record attempted with Id:1.
+2020-10-23 22:34:27.6692 INFO Update Author record attempted with Id:1.
+2020-10-23 22:36:00.2705 INFO Update Author record attempted with Id:1.
+2020-10-23 22:50:14.5440 INFO Delete Author record attempted with Id:1.
+2020-10-23 22:50:16.5663 INFO Author with Id:1 deleted successfully.
+2020-10-23 22:50:33.2784 INFO Attempted to GET all Authors.
+2020-10-23 22:50:33.4105 INFO Successfully GOT all Authors.
+2020-10-23 22:50:54.3559 INFO Delete Author record attempted with Id:1.
+2020-10-23 22:50:54.4375 WARN (Delete) Author with Id:1 failed. Not found.

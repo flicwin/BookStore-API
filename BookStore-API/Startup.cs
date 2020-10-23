@@ -60,9 +60,9 @@ namespace BookStore_API
                 var xpath = Path.Combine(AppContext.BaseDirectory, xfile);
                 c.IncludeXmlComments(xpath);
             });
+            
             services.AddSingleton<ILoggerService, LoggerService>();
-
-
+            services.AddScoped<IAuthorRepository, AuthorRepository>();
 
             services.AddControllers();
         }
