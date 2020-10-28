@@ -1,0 +1,6 @@
+2020-10-28 20:07:49.3716 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-28 20:07:49.8551 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-28 20:10:46.2588 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-28 20:10:46.5629 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-28 20:12:04.8233 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-28 20:12:05.1873 INFO Users - Login: testing2@testing.com authenticated.

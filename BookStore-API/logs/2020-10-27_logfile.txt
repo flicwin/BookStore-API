@@ -1,0 +1,70 @@
+2020-10-27 00:13:48.0888 INFO Users - Login: Login attempt using test1@testing.com.
+2020-10-27 00:13:48.2255 WARN Users - Login: test1@testing.com NOT authenticated.
+2020-10-27 00:13:51.5996 INFO Users - Login: Login attempt using test1@testing.com.
+2020-10-27 00:13:51.6271 WARN Users - Login: test1@testing.com NOT authenticated.
+2020-10-27 00:13:55.9539 INFO Users - Login: Login attempt using test1@testing.com.
+2020-10-27 00:13:55.9732 WARN Users - Login: test1@testing.com NOT authenticated.
+2020-10-27 00:14:13.1473 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:14:13.3830 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-27 00:17:02.1507 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:02.2096 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:08.4623 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:08.5220 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:09.6850 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:09.7405 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:10.6545 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:10.7199 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:12.6092 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:12.6651 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:13.2477 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:13.3103 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:13.8352 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:13.8934 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:14.3648 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:14.4237 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:17.0595 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:17.1157 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:17.7366 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:17:17.7907 WARN Users - Login: flic@felicitywinter.com NOT authenticated.
+2020-10-27 00:17:26.8527 INFO Users - Login: Login attempt using test1@testing.com.
+2020-10-27 00:17:26.8814 WARN Users - Login: test1@testing.com NOT authenticated.
+2020-10-27 00:17:28.7552 INFO Users - Login: Login attempt using test1@testing.com.
+2020-10-27 00:17:28.7772 WARN Users - Login: test1@testing.com NOT authenticated.
+2020-10-27 00:17:29.3909 INFO Users - Login: Login attempt using test1@testing.com.
+2020-10-27 00:17:29.4137 WARN Users - Login: test1@testing.com NOT authenticated.
+2020-10-27 00:20:49.6480 INFO Users - Register: Attempt to create user name: testing2@testing.com.
+2020-10-27 00:20:50.0018 INFO Users - Register: testing2@testing.com registration attempt succeeded.
+2020-10-27 00:21:20.3914 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:21:20.5833 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:23:41.5651 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:23:41.6380 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:24:45.6512 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:24:45.9414 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:27:51.5100 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:27:51.8033 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:31:23.4000 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:31:23.7041 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:34:07.0372 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:34:07.1153 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:35:19.9357 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:35:20.2060 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:36:05.6864 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:36:05.7526 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:39:54.6790 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:39:54.9451 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:42:04.6472 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 00:42:04.9964 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-27 00:46:14.9133 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:46:15.2399 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:49:56.8966 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:49:57.2060 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 00:56:19.2261 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 00:56:19.5141 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 01:10:01.3361 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 01:10:01.6189 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 01:10:49.9817 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 01:10:50.2907 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 01:11:58.3049 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-27 01:11:58.5858 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-27 01:15:17.8188 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-27 01:15:18.1420 INFO Users - Login: flic@felicitywinter.com authenticated.

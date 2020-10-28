@@ -19,7 +19,7 @@ namespace BookStore_API.Data
             {
                 var user = new IdentityUser
                 {
-                    UserName = "admin",
+                    UserName = "admin@bookstore.co.nz",
                     Email = "admin@bookstore.co.nz"
                 };
                 var result = await userManager.CreateAsync(user, "Fr33d0m!");
@@ -32,20 +32,21 @@ namespace BookStore_API.Data
             {
                 var user = new IdentityUser
                 {
-                    UserName = "flicwin",
+                    UserName = "flic@felicitywinter.com",
                     Email = "flic@felicitywinter.com"
                 };
                 var result = await userManager.CreateAsync(user, "Fr33d0m!");
                 if (result.Succeeded)
                 {
                     await userManager.AddToRoleAsync(user, "Customer");
+                    await userManager.AddToRoleAsync(user, "Administrator");
                 }
             }
             if (await userManager.FindByEmailAsync("felicity.sommers@gmail.com") == null)
             {
                 var user = new IdentityUser
                 {
-                    UserName = "flicsom",
+                    UserName = "felicity.sommers@gmail.com",
                     Email = "felicity.sommers@gmail.com"
                 };
                 var result = await userManager.CreateAsync(user, "Fr33d0m!");

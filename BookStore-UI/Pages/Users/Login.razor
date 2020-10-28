@@ -1,0 +1,51 @@
+﻿@page "/Login"
+
+@using BookStore_UI.Models
+@using BookStore_UI.Contracts
+
+@inject IAuthenticationRepository _authRepo
+@inject NavigationManager _navMan
+
+<div class="card">
+    <h3 class="card-title align-self-md-center">Login</h3>
+    <hr />
+    @if (!response)
+    {
+        <div class="alert alert-danger">
+            <p>Something went wrong with your login attempt.</p>
+        </div>
+    }
+    <div class="card-body">
+        <EditForm Model="Model" OnValidSubmit="HandleLogin">
+            <DataAnnotationsValidator />
+            <div class="form-group">
+                <label class="col-form-label-sm" for="email">Email address</label>
+                <InputText Id="email" class="form-control" aria-describedby="emailHelp" @bind-Value="Model.EmailAddress" placeholder="you@yourdomain" />
+                @*<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>*@
+                @*<ValidationMessage For="@(() => Model.EmailAddress)"/>*@
+            </div>
+            <div class="form-group">
+                <label class="col-form-label-sm" for="password">Password</label>
+                <InputText type="password" Id="password" class="form-control" aria-describedby="passwordHelp" @bind-Value="Model.Password" />
+                @*<small id="passwordHelp" class="form-text text-muted">*Required. Must be between 8 and 26 characters and contain one number, one uppercase letter and one special character.</small>*@
+                @*<ValidationMessage For="@(()=>Model.Password)"/>*@
+            </div>
+            <hr />
+            <ValidationSummary />
+            <button type="submit" class="btn btn-outline-primary btn-block">Login</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private LoginModel Model = new LoginModel();
+    bool response = true;
+    private async Task HandleLogin()
+    {
+        var response = await _authRepo.Login(Model);
+        if (response)
+        {
+            _navMan.NavigateTo("/books");
+        }
+    }
+}
