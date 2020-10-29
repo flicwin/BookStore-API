@@ -62,7 +62,9 @@ namespace BookStore_API.Controllers
                     return InternalError($"{location}: {username} registration attempt failed.");
                 }
                 _logger.LogInfo($"{location}: {username} registration attempt succeeded.");
-                return Ok(new { result.Succeeded });
+                //return Ok(new { result.Succeeded });
+                await _userManager.AddToRoleAsync(user, "Customer");
+                return Created("login", new { result.Succeeded });
             }
             catch (Exception e)
             {

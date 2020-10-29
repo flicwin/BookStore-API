@@ -1,6 +1,5 @@
 ﻿using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components.Authorization;
-using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
@@ -14,8 +13,8 @@ namespace BookStore_UI.Providers
     {
         private readonly ILocalStorageService _localStorage;
         private readonly JwtSecurityTokenHandler _tokenHandler;
-
-        public ApiAuthenticationStateProvider(ILocalStorageService localStorage, JwtSecurityTokenHandler tokenHandler)
+        public ApiAuthenticationStateProvider(ILocalStorageService localStorage
+            , JwtSecurityTokenHandler tokenHandler)
         {
             _localStorage = localStorage;
             _tokenHandler = tokenHandler;
@@ -37,10 +36,11 @@ namespace BookStore_UI.Providers
                     await _localStorage.RemoveItemAsync("authToken");
                     return new AuthenticationState(new ClaimsPrincipal(new ClaimsIdentity()));
                 }
-                // Get Claims from Token and Build auth user object
+
+                //Get Claims from token and Build auth user object
                 var claims = ParseClaims(tokenContent);
                 var user = new ClaimsPrincipal(new ClaimsIdentity(claims, "jwt"));
-                // Return authenticated person
+                //return authenticted person
                 return new AuthenticationState(user);
             }
             catch (Exception)
@@ -54,8 +54,7 @@ namespace BookStore_UI.Providers
             var savedToken = await _localStorage.GetItemAsync<string>("authToken");
             var tokenContent = _tokenHandler.ReadJwtToken(savedToken);
             var claims = ParseClaims(tokenContent);
-            var user = new ClaimsPrincipal(new ClaimsIdentity(claims, "jwt")); 
-
+            var user = new ClaimsPrincipal(new ClaimsIdentity(claims, "jwt"));
             var authState = Task.FromResult(new AuthenticationState(user));
             NotifyAuthenticationStateChanged(authState);
         }

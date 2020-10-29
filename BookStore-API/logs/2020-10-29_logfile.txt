@@ -1,0 +1,84 @@
+2020-10-29 06:18:37.5853 INFO Users - Login: Login attempt using testing2@testing.com.
+2020-10-29 06:18:37.8914 INFO Users - Login: testing2@testing.com authenticated.
+2020-10-29 06:19:08.3284 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 06:19:08.4528 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 06:19:28.2694 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 06:19:28.3349 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 06:19:33.5422 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 06:19:33.6489 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 06:19:38.8820 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 06:19:38.9543 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 09:57:49.9244 INFO Users - Register: Attempt to create user name: test3@testing.com.
+2020-10-29 09:57:50.3195 INFO Users - Register: test3@testing.com registration attempt succeeded.
+2020-10-29 09:57:57.8989 INFO Users - Login: Login attempt using test3@testing.com.
+2020-10-29 09:57:58.1091 INFO Users - Login: test3@testing.com authenticated.
+2020-10-29 17:23:02.2668 INFO Users - Login: Login attempt using test3@testing.com.
+2020-10-29 17:23:02.5980 INFO Users - Login: test3@testing.com authenticated.
+2020-10-29 17:27:40.8946 INFO Users - Login: Login attempt using test3@testing.com.
+2020-10-29 17:27:41.1979 INFO Users - Login: test3@testing.com authenticated.
+2020-10-29 17:34:23.9759 INFO Users - Login: Login attempt using test3@testing.com.
+2020-10-29 17:34:24.2806 INFO Users - Login: test3@testing.com authenticated.
+2020-10-29 22:30:50.2242 INFO Users - Login: Login attempt using test3@testing.com.
+2020-10-29 22:30:50.5139 INFO Users - Login: test3@testing.com authenticated.
+2020-10-29 22:31:04.7291 INFO Users - Login: Login attempt using test3@testing.com.
+2020-10-29 22:31:04.8004 INFO Users - Login: test3@testing.com authenticated.
+2020-10-29 22:36:21.9118 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:36:22.2201 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:36:34.9622 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:36:35.0314 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:38:35.4309 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:38:35.7630 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:47:17.4390 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:47:17.5383 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:47:41.7900 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:47:41.8969 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:48:20.3409 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:48:20.4449 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:48:54.9167 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:48:54.9828 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:49:39.9772 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:49:40.3325 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:51:45.1203 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 22:51:45.4220 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 22:52:10.3543 INFO Users - Login: Login attempt using flic@flicwinter.com.
+2020-10-29 22:52:10.3946 WARN Users - Login: flic@flicwinter.com NOT authenticated.
+2020-10-29 22:52:27.5308 INFO Users - Login: Login attempt using flic@flicwinter.com.
+2020-10-29 22:52:27.5739 WARN Users - Login: flic@flicwinter.com NOT authenticated.
+2020-10-29 22:53:16.5589 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 22:53:16.6679 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 22:53:31.5718 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 22:53:31.6490 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 23:02:24.5343 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 23:02:24.6905 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 23:02:37.9115 INFO Users - Login: Login attempt using admin@bookstore.co.nz.
+2020-10-29 23:02:37.9908 INFO Users - Login: admin@bookstore.co.nz authenticated.
+2020-10-29 23:03:10.4608 INFO Users - Register: Attempt to create user name: samchan@bookstore.com.
+2020-10-29 23:03:10.7184 INFO Users - Register: samchan@bookstore.com registration attempt succeeded.
+2020-10-29 23:03:15.6867 INFO Users - Login: Login attempt using samchan@bookstore.com.
+2020-10-29 23:03:15.7498 INFO Users - Login: samchan@bookstore.com authenticated.
+2020-10-29 23:08:13.9899 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 23:08:14.3507 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 23:08:14.7294 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 23:08:14.8136 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 23:08:46.7669 INFO Users - Register: Attempt to create user name: test10@gmail.com.
+2020-10-29 23:08:46.9927 INFO Users - Register: test10@gmail.com registration attempt succeeded.
+2020-10-29 23:08:50.0552 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 23:08:50.1469 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 23:09:18.9490 INFO Users - Login: Login attempt using test10@gmail.com.
+2020-10-29 23:09:19.0360 INFO Users - Login: test10@gmail.com authenticated.
+2020-10-29 23:09:35.8693 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 23:09:35.9919 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 23:10:01.1863 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-29 23:10:01.3844 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-29 23:15:59.4816 INFO Users - Register: Attempt to create user name: test11@gmail.com.
+2020-10-29 23:15:59.8219 INFO Users - Register: test11@gmail.com registration attempt succeeded.
+2020-10-29 23:16:04.2322 INFO Users - Login: Login attempt using test11@gmail.com.
+2020-10-29 23:16:04.4178 INFO Users - Login: test11@gmail.com authenticated.
+2020-10-29 23:16:41.8565 INFO Users - Register: Attempt to create user name: test12@gmail.com.
+2020-10-29 23:16:41.9155 INFO Users - Register: test12@gmail.com registration attempt succeeded.
+2020-10-29 23:16:50.4304 INFO Users - Login: Login attempt using test12@gmail.com.
+2020-10-29 23:16:50.4937 WARN Users - Login: test12@gmail.com NOT authenticated.
+2020-10-29 23:17:02.5485 INFO Users - Login: Login attempt using test12@gmail.com.
+2020-10-29 23:17:02.6199 INFO Users - Login: test12@gmail.com authenticated.
+2020-10-29 23:17:36.3146 INFO Users - Login: Login attempt using test11@gmail.com.
+2020-10-29 23:17:36.3970 INFO Users - Login: test11@gmail.com authenticated.
