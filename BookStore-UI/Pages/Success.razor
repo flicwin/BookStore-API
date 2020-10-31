@@ -1,6 +1,32 @@
 ﻿@page "/success"
-<h3>Success!</h3>
+<h3>Well done you tried to log in. Here's the result!</h3>
+<hr />
+<AuthorizeView Roles="Customer">
+    <Authorized>
+        <p>You are a CUSTOMER.</p>
+    </Authorized>
+</AuthorizeView>
 
+<AuthorizeView Roles="Administrator">
+    <Authorized>
+        <p>You are an ADMINISTRATOR.</p>
+    </Authorized>
+</AuthorizeView>
+
+<AuthorizeView Roles="Staff Member">
+    <Authorized>
+        <p>You are a STAFF MEMBER.</p>
+    </Authorized>
+</AuthorizeView>
+
+<AuthorizeView>
+    <Authorized>
+        <p>You logged in successfully.</p>
+    </Authorized>
+    <NotAuthorized>
+        <p>Your login attempt failed. <a href="/login">Try again?</a></p>
+    </NotAuthorized>
+</AuthorizeView>
 @code {
 
 }
