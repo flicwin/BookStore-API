@@ -1,22 +1,22 @@
 ﻿@page "/authors/view/{Id}"
 @inject IAuthorRepository _repo
 @inject NavigationManager _navManager
-@*@inject IToastService _toastService*@
+@inject IToastService _toastService
 
 <h3 class="card-title">View Author Details</h3>
 <hr />
 <br />
 @if (int.Parse(Id) < 1 || string.IsNullOrWhiteSpace(Id))
 {
-    <ErrorMessage Message="Invalid Selection. Please Try Again" /> 
-}
-else if (Model == null)
-{
-    <LoadingMessage Message="Loading Author Details" /> 
+<ErrorMessage Message="Invalid Selection. Please Try Again" />
+ }
+            else if (Model == null)
+            {
+<LoadingMessage Message="Loading Author Details" />
 }
 else
 {
-//_toastService.ShowInfo($"Now Viewing {Model.FirstName} {Model.LastName}", "");
+    _toastService.ShowInfo($"Now Viewing {Model.FirstName} {Model.LastName}", "");
 <div class="col-md-8">
     <table class="table table-responsive">
         <tr>
@@ -40,18 +40,39 @@ else
 </div> }
 else
 {
-    <div class="card w-100" style="width: 100%;">
-        <div class="card-header">
-            <h4>Author's Books</h4>
-        </div>
-        <ul class="list-group list-group-flush">
+<div class="card w-100" style="width: 100%;">
+    <div class="card-header">
+        <h4>Author's Books</h4>
+    </div>
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+
             @foreach (var book in Model.Books)
             {
-            <li class="list-group-item">@book.Title - @book.Price </li>
-            }
-        </ul>
-    </div>
+<tr>
+    <td><a href="/books/view/@book.Id">@book.Title</a></td>
+    <td>@string.Format("{0:C}", book.Price)</td>
+</tr>
 }
+
+        </tbody>
+    </table>
+
+
+
+
+    @*<ul class="list-group list-group-flush">
+        @foreach (var book in Model.Books)
+        {
+<li class="list-group-item">@book.Title - @string.Format("{0:C}", book.Price) </li>}
+    </ul>*@
+</div>}
 
 </div>}
 <br />

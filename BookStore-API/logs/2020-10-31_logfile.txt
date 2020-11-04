@@ -275,3 +275,49 @@
 2020-10-31 23:38:22.8774 INFO Authors - GetAuthor: Successful with Id:2.
 2020-10-31 23:38:26.4898 INFO Authors - GetAuthors: Attempted.
 2020-10-31 23:38:26.5216 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:40:53.7906 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-31 23:40:54.1243 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-31 23:41:02.9065 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:41:03.0941 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:41:09.5985 INFO Authors - GetAuthor: Attempted with Id:2.
+2020-10-31 23:41:09.6694 INFO Authors - GetAuthor: Successful with Id:2.
+2020-10-31 23:54:13.1589 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-10-31 23:54:13.4868 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-10-31 23:54:16.1427 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:54:16.3359 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:54:18.9067 INFO Authors - GetAuthor: Attempted with Id:2.
+2020-10-31 23:54:18.9832 INFO Authors - GetAuthor: Successful with Id:2.
+2020-10-31 23:54:27.4658 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:54:27.4929 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:54:29.1946 INFO Authors - GetAuthor: Attempted with Id:4.
+2020-10-31 23:54:29.2282 INFO Authors - GetAuthor: Successful with Id:4.
+2020-10-31 23:54:31.6802 INFO Authors - GetAuthor: Attempted with Id:4.
+2020-10-31 23:54:31.7128 INFO Authors - GetAuthor: Successful with Id:4.
+2020-10-31 23:54:33.8816 INFO Authors - Update: Attempted with Id:4.
+2020-10-31 23:54:33.8816 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:54:33.9249 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:54:39.7434 INFO Authors - GetAuthor: Attempted with Id:4.
+2020-10-31 23:54:39.7768 INFO Authors - GetAuthor: Successful with Id:4.
+2020-10-31 23:54:41.4438 INFO Authors - Update: Attempted with Id:4.
+2020-10-31 23:54:41.4624 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:54:41.5016 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:54:42.8771 INFO Authors - GetAuthor: Attempted with Id:4.
+2020-10-31 23:54:42.9058 INFO Authors - GetAuthor: Successful with Id:4.
+2020-10-31 23:54:46.1312 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:54:46.1766 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:54:49.2906 INFO Authors - GetAuthor: Attempted with Id:3.
+2020-10-31 23:54:49.3296 INFO Authors - GetAuthor: Successful with Id:3.
+2020-10-31 23:54:50.8105 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:54:50.8410 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:55:11.4804 INFO Authors - GetAuthor: Attempted with Id:6.
+2020-10-31 23:55:11.5200 INFO Authors - GetAuthor: Successful with Id:6.
+2020-10-31 23:55:13.9010 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:55:13.9413 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:55:16.4203 INFO Authors - GetAuthor: Attempted with Id:3.
+2020-10-31 23:55:16.4489 INFO Authors - GetAuthor: Successful with Id:3.
+2020-10-31 23:55:18.1545 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:55:18.1953 INFO Authors - GetAuthors: Successful.
+2020-10-31 23:55:20.3067 INFO Authors - GetAuthor: Attempted with Id:2.
+2020-10-31 23:55:20.3453 INFO Authors - GetAuthor: Successful with Id:2.
+2020-10-31 23:55:25.6206 INFO Authors - GetAuthors: Attempted.
+2020-10-31 23:55:25.6444 INFO Authors - GetAuthors: Successful.

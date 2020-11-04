@@ -30,7 +30,9 @@ namespace BookStore_API.Services
         public async Task<IList<Book>> FindAll()
         {
             // This is the shorthand version..
-            return await _db.Books.ToListAsync();
+            return await _db.Books
+                .Include(q => q.Author)
+                .ToListAsync();
             // ...of this
             // var books = await _db.Books.ToListAsync();
             // return books;
@@ -39,7 +41,9 @@ namespace BookStore_API.Services
         public async Task<Book> FindById(int id)
         {
             // This is the shorthand version explained above
-            return await _db.Books.FindAsync(id);
+            return await _db.Books
+                .Include(q => q.Author)
+                .FirstOrDefaultAsync(q => q.Id == id);
         }
 
         public async Task<bool> isExists(int id)

@@ -2,7 +2,7 @@
 @attribute [Authorize(Roles = "Administrator")]
 @inject IAuthorRepository _repo
 @inject NavigationManager _navManager
-@*@inject IToastService _toastService*@
+@inject IToastService _toastService
 <h3 class="card-title">Are You Sure You Want to Delete This Record?</h3>
 <hr />
 <br />
@@ -21,7 +21,7 @@ else if (Model == null)
 }
 else
 {
-    <div class="col-md-4">
+    <div class="col-md-8">
         <table class="table table-responsive">
             <tr>
                 <td>First Name</td>
@@ -45,17 +45,30 @@ else
         }
         else
         {
-            <div class="card" style="width: 18rem;">
-                <div class="card-header">
-                    <h4>Author's Books</h4>
-                </div>
-                <ul class="list-group list-group-flush">
-                    @foreach (var book in Model.Books)
-                    {
-                        <li class="list-group-item">@book.Title - @book.Price </li>
-                    }
-                </ul>
-            </div>
+    <div class="card w-100" style="width: 100%;">
+        <div class="card-header">
+            <h4>Author's Books</h4>
+        </div>
+        <table class="table table-responsive">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var book in Model.Books)
+                {
+    <tr>
+        <td>@book.Title</td>
+        <td>@string.Format("{0:C}", book.Price)</td>
+    </tr>
+}
+
+            </tbody>
+        </table>
+    </div>
         }
 
     </div>
@@ -90,7 +103,7 @@ else
         isSuccess = await _repo.Delete(Endpoints.AuthorsEndpoint, Model.Id);
         if (isSuccess)
         {
-            //_toastService.ShowError("Author Deleted Successfully", "");
+            _toastService.ShowError("Author Deleted Successfully", "");
             BackToList();
         }
     }

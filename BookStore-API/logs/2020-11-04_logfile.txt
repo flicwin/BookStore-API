@@ -1,0 +1,392 @@
+2020-11-04 14:38:54.2651 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 14:38:54.6185 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 14:38:57.0881 INFO Books - GetBooks: Attempted.
+2020-11-04 14:38:57.2411 INFO Books - GetBooks: Successful.
+2020-11-04 14:38:59.2665 INFO Authors - GetAuthors: Attempted.
+2020-11-04 14:38:59.3749 INFO Authors - GetAuthors: Successful.
+2020-11-04 14:39:28.1154 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 14:39:28.1992 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 14:39:31.5176 INFO Books - GetBooks: Attempted.
+2020-11-04 14:39:31.5759 INFO Books - GetBooks: Successful.
+2020-11-04 14:39:35.8626 INFO Authors - GetAuthors: Attempted.
+2020-11-04 14:39:35.8970 INFO Authors - GetAuthors: Successful.
+2020-11-04 14:46:39.3521 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 14:46:39.6564 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 14:46:43.3232 INFO Books - GetBooks: Attempted.
+2020-11-04 14:46:43.5884 INFO Books - GetBooks: Successful.
+2020-11-04 14:46:49.4646 INFO Authors - GetAuthors: Attempted.
+2020-11-04 14:46:49.5707 INFO Authors - GetAuthors: Successful.
+2020-11-04 14:48:11.3711 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 14:48:11.7066 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 14:48:15.1973 INFO Books - GetBooks: Attempted.
+2020-11-04 14:48:15.3569 INFO Books - GetBooks: Successful.
+2020-11-04 14:48:17.2803 INFO Authors - GetAuthors: Attempted.
+2020-11-04 14:48:17.3614 INFO Authors - GetAuthors: Successful.
+2020-11-04 14:48:47.5014 INFO Authors - GetAuthors: Attempted.
+2020-11-04 14:48:47.5344 INFO Authors - GetAuthors: Successful.
+2020-11-04 14:48:49.6446 INFO Authors - GetAuthor: Attempted with Id:2.
+2020-11-04 14:48:49.7033 INFO Authors - GetAuthor: Successful with Id:2.
+2020-11-04 14:48:53.1874 INFO Authors - GetAuthors: Attempted.
+2020-11-04 14:48:53.2224 INFO Authors - GetAuthors: Successful.
+2020-11-04 14:48:57.4579 INFO Authors - GetAuthors: Attempted.
+2020-11-04 14:48:57.4924 INFO Authors - GetAuthors: Successful.
+2020-11-04 14:48:59.3712 INFO Books - GetBooks: Attempted.
+2020-11-04 14:48:59.4029 INFO Books - GetBooks: Successful.
+2020-11-04 14:49:01.7806 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 14:49:01.8480 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 14:49:04.6817 INFO Books - GetBooks: Attempted.
+2020-11-04 14:49:04.7090 INFO Books - GetBooks: Successful.
+2020-11-04 14:53:16.7731 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 14:53:17.1762 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 14:53:20.2106 INFO Books - GetBooks: Attempted.
+2020-11-04 14:53:20.3676 INFO Books - GetBooks: Successful.
+2020-11-04 14:53:26.1708 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 14:53:26.2248 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 14:55:03.4293 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 14:55:03.7619 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 14:55:05.7555 INFO Books - GetBooks: Attempted.
+2020-11-04 14:55:05.9461 INFO Books - GetBooks: Successful.
+2020-11-04 14:55:08.3502 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 14:55:08.4253 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 14:57:29.6966 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 14:57:30.0598 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 14:57:32.4072 INFO Books - GetBooks: Attempted.
+2020-11-04 14:57:32.5512 INFO Books - GetBooks: Successful.
+2020-11-04 14:57:54.7149 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 14:57:54.7848 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 15:01:14.9819 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 15:01:15.2974 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 15:01:17.5769 INFO Books - GetBooks: Attempted.
+2020-11-04 15:01:17.7461 INFO Books - GetBooks: Successful.
+2020-11-04 15:01:19.7520 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 15:01:19.8096 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 15:01:24.8024 INFO Books - GetBooks: Attempted.
+2020-11-04 15:01:24.8343 INFO Books - GetBooks: Successful.
+2020-11-04 15:01:26.1994 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 15:01:26.2380 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 15:02:16.4643 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 15:02:16.7771 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 15:02:18.3060 INFO Books - GetBooks: Attempted.
+2020-11-04 15:02:18.4475 INFO Books - GetBooks: Successful.
+2020-11-04 15:02:20.1170 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 15:02:20.1678 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 15:02:24.5273 INFO Books - GetBooks: Attempted.
+2020-11-04 15:02:24.5534 INFO Books - GetBooks: Successful.
+2020-11-04 15:02:26.4806 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 15:02:26.5054 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 15:03:59.1397 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 15:03:59.5078 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 15:04:04.8783 INFO Books - GetBooks: Attempted.
+2020-11-04 15:04:05.0554 INFO Books - GetBooks: Successful.
+2020-11-04 15:04:07.1566 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 15:04:07.2109 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 15:04:12.4409 INFO Books - GetBooks: Attempted.
+2020-11-04 15:04:12.4758 INFO Books - GetBooks: Successful.
+2020-11-04 15:04:13.9025 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 15:04:13.9360 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 15:04:18.8864 INFO Books - GetBooks: Attempted.
+2020-11-04 15:04:18.9185 INFO Books - GetBooks: Successful.
+2020-11-04 15:04:20.7241 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 15:04:20.7614 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 17:51:07.8988 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 17:51:08.2635 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 17:51:10.9823 INFO Books - GetBooks: Attempted.
+2020-11-04 17:51:11.1636 INFO Books - GetBooks: Successful.
+2020-11-04 17:51:12.8136 INFO Authors - GetAuthors: Attempted.
+2020-11-04 17:51:12.8910 INFO Authors - GetAuthors: Successful.
+2020-11-04 17:56:12.6149 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 17:56:12.9343 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 17:56:15.6283 INFO Books - GetBooks: Attempted.
+2020-11-04 17:56:15.8159 INFO Books - GetBooks: Successful.
+2020-11-04 17:56:17.7474 INFO Authors - GetAuthors: Attempted.
+2020-11-04 17:56:17.8197 INFO Authors - GetAuthors: Successful.
+2020-11-04 17:59:34.9426 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 17:59:35.2819 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 17:59:38.0624 INFO Books - GetBooks: Attempted.
+2020-11-04 17:59:38.2330 INFO Books - GetBooks: Successful.
+2020-11-04 18:05:25.3854 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 18:05:25.7140 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 18:05:29.6756 INFO Books - GetBooks: Attempted.
+2020-11-04 18:05:29.8394 INFO Books - GetBooks: Successful.
+2020-11-04 18:05:32.6235 INFO Authors - GetAuthors: Attempted.
+2020-11-04 18:05:32.7164 INFO Authors - GetAuthors: Successful.
+2020-11-04 18:06:35.7185 INFO Books - Create: Attempted.
+2020-11-04 18:06:35.9912 INFO Books - Create: Successful.
+2020-11-04 18:06:36.0132 INFO Books - Create: BookStore_API.Data.Book
+2020-11-04 18:06:36.1487 INFO Books - GetBooks: Attempted.
+2020-11-04 18:06:36.1721 INFO Books - GetBooks: Successful.
+2020-11-04 18:06:48.4987 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 18:06:48.5512 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 18:06:57.3185 INFO Authors - GetAuthor: Attempted with Id:3.
+2020-11-04 18:06:57.3953 INFO Authors - GetAuthor: Successful with Id:3.
+2020-11-04 18:07:03.6753 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 18:07:03.7241 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 18:07:07.3071 INFO Books - GetBooks: Attempted.
+2020-11-04 18:07:07.3459 INFO Books - GetBooks: Successful.
+2020-11-04 18:07:54.3042 INFO Authors - GetAuthors: Attempted.
+2020-11-04 18:07:54.3497 INFO Authors - GetAuthors: Successful.
+2020-11-04 18:07:57.1618 INFO Books - GetBooks: Attempted.
+2020-11-04 18:07:57.2114 INFO Books - GetBooks: Successful.
+2020-11-04 18:08:25.8191 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 18:08:25.8539 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 18:08:28.1416 INFO Books - GetBooks: Attempted.
+2020-11-04 18:08:28.1811 INFO Books - GetBooks: Successful.
+2020-11-04 18:17:58.5868 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 18:17:58.8730 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 18:18:01.5530 INFO Books - GetBooks: Attempted.
+2020-11-04 18:18:01.6920 INFO Books - GetBooks: Successful.
+2020-11-04 18:18:05.2382 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 18:18:05.2798 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 18:18:05.3276 INFO Authors - GetAuthors: Attempted.
+2020-11-04 18:18:05.3857 INFO Authors - GetAuthors: Successful.
+2020-11-04 18:18:18.5313 INFO Books - Update: Attempted with Id:7.
+2020-11-04 18:18:18.7340 INFO Books - Update: Successful with Id:7.
+2020-11-04 18:18:18.8188 INFO Books - GetBooks: Attempted.
+2020-11-04 18:18:18.8437 INFO Books - GetBooks: Successful.
+2020-11-04 18:18:28.5198 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 18:18:28.5470 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 18:18:28.5851 INFO Authors - GetAuthors: Attempted.
+2020-11-04 18:18:28.6062 INFO Authors - GetAuthors: Successful.
+2020-11-04 18:18:51.6551 INFO Books - Update: Attempted with Id:10.
+2020-11-04 18:18:51.6937 INFO Books - Update: Successful with Id:10.
+2020-11-04 18:18:51.7723 INFO Books - GetBooks: Attempted.
+2020-11-04 18:18:51.7910 INFO Books - GetBooks: Successful.
+2020-11-04 18:19:55.8875 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 18:19:55.9176 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 18:19:55.9684 INFO Authors - GetAuthors: Attempted.
+2020-11-04 18:19:55.9877 INFO Authors - GetAuthors: Successful.
+2020-11-04 18:20:04.6799 INFO Books - Update: Attempted with Id:1009.
+2020-11-04 18:20:04.7106 INFO Books - Update: Successful with Id:1009.
+2020-11-04 18:20:04.7839 INFO Books - GetBooks: Attempted.
+2020-11-04 18:20:04.8054 INFO Books - GetBooks: Successful.
+2020-11-04 18:20:13.3120 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 18:20:13.3370 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 18:20:13.3758 INFO Authors - GetAuthors: Attempted.
+2020-11-04 18:20:13.3919 INFO Authors - GetAuthors: Successful.
+2020-11-04 18:21:56.7773 INFO Books - Update: Attempted with Id:1009.
+2020-11-04 18:21:56.8376 INFO Books - Update: Successful with Id:1009.
+2020-11-04 18:21:56.9375 INFO Books - GetBooks: Attempted.
+2020-11-04 18:21:56.9601 INFO Books - GetBooks: Successful.
+2020-11-04 18:21:59.5574 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 18:21:59.5798 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 18:21:59.6218 INFO Authors - GetAuthors: Attempted.
+2020-11-04 18:21:59.6405 INFO Authors - GetAuthors: Successful.
+2020-11-04 18:24:19.6450 INFO Books - Update: Attempted with Id:1009.
+2020-11-04 18:24:19.6491 INFO Books - GetBooks: Attempted.
+2020-11-04 18:24:19.6837 INFO Books - Update: Successful with Id:1009.
+2020-11-04 18:24:19.6837 INFO Books - GetBooks: Successful.
+2020-11-04 18:24:22.2815 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 18:24:22.3141 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 22:19:07.0060 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 22:19:07.2985 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 22:19:09.8730 INFO Books - GetBooks: Attempted.
+2020-11-04 22:19:10.0194 INFO Books - GetBooks: Successful.
+2020-11-04 22:23:44.0251 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 22:23:44.3043 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 22:23:46.8431 INFO Books - GetBooks: Attempted.
+2020-11-04 22:23:46.9848 INFO Books - GetBooks: Successful.
+2020-11-04 22:23:55.1856 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 22:23:55.2329 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 22:23:55.2840 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:23:55.3413 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:24:19.5839 INFO Books - Update: Attempted with Id:1009.
+2020-11-04 22:24:19.8306 INFO Books - Update: Successful with Id:1009.
+2020-11-04 22:24:19.9000 INFO Books - GetBooks: Attempted.
+2020-11-04 22:24:19.9292 INFO Books - GetBooks: Successful.
+2020-11-04 22:24:23.8312 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 22:24:23.8600 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 22:24:26.9795 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 22:24:27.0057 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 22:24:27.0534 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:24:27.0724 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:24:33.9140 INFO Books - Update: Attempted with Id:1009.
+2020-11-04 22:24:33.9396 INFO Books - Update: Successful with Id:1009.
+2020-11-04 22:24:34.0192 INFO Books - GetBooks: Attempted.
+2020-11-04 22:24:34.0465 INFO Books - GetBooks: Successful.
+2020-11-04 22:24:42.7100 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 22:24:42.7355 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 22:24:42.7905 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:24:42.8070 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:29:33.1400 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 22:29:33.4309 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 22:29:36.2278 INFO Books - GetBooks: Attempted.
+2020-11-04 22:29:36.3704 INFO Books - GetBooks: Successful.
+2020-11-04 22:29:38.6473 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 22:29:38.6876 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 22:29:38.7349 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:29:38.7957 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:29:44.9135 INFO Books - Update: Attempted with Id:7.
+2020-11-04 22:29:45.1199 INFO Books - Update: Successful with Id:7.
+2020-11-04 22:29:45.2049 INFO Books - GetBooks: Attempted.
+2020-11-04 22:29:45.2253 INFO Books - GetBooks: Successful.
+2020-11-04 22:29:47.8106 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:29:47.8368 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:29:47.8865 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:29:47.9092 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:29:58.4270 INFO Books - Update: Attempted with Id:10.
+2020-11-04 22:29:58.4517 INFO Books - Update: Successful with Id:10.
+2020-11-04 22:29:58.5175 INFO Books - GetBooks: Attempted.
+2020-11-04 22:29:58.5395 INFO Books - GetBooks: Successful.
+2020-11-04 22:30:00.6621 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 22:30:00.6827 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 22:30:00.7366 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:30:00.7567 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:30:06.5708 INFO Books - Update: Attempted with Id:1009.
+2020-11-04 22:30:06.6002 INFO Books - Update: Successful with Id:1009.
+2020-11-04 22:30:06.7173 INFO Books - GetBooks: Attempted.
+2020-11-04 22:30:06.7587 INFO Books - GetBooks: Successful.
+2020-11-04 22:30:08.9011 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 22:30:08.9246 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 22:30:12.4735 INFO Books - GetBooks: Attempted.
+2020-11-04 22:30:12.5062 INFO Books - GetBooks: Successful.
+2020-11-04 22:30:14.4686 INFO Books - GetBook: Attempted with Id:7.
+2020-11-04 22:30:14.4973 INFO Books - GetBook: Successful with Id:7.
+2020-11-04 22:30:14.5375 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:30:14.5552 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:30:17.8847 INFO Books - Update: Attempted with Id:7.
+2020-11-04 22:30:17.9059 INFO Books - GetBooks: Attempted.
+2020-11-04 22:30:17.9178 INFO Books - Update: Successful with Id:7.
+2020-11-04 22:30:17.9375 INFO Books - GetBooks: Successful.
+2020-11-04 22:35:38.6032 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 22:35:38.8971 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 22:35:48.2996 INFO Books - GetBooks: Attempted.
+2020-11-04 22:35:48.4423 INFO Books - GetBooks: Successful.
+2020-11-04 22:35:52.0790 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:35:52.1259 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:35:52.1695 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:35:52.2296 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:36:49.1279 INFO Books - GetBooks: Attempted.
+2020-11-04 22:36:49.1555 INFO Books - GetBooks: Successful.
+2020-11-04 22:38:03.5607 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 22:38:03.8587 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 22:38:06.7861 INFO Books - GetBooks: Attempted.
+2020-11-04 22:38:06.9394 INFO Books - GetBooks: Successful.
+2020-11-04 22:38:09.3264 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:38:09.3637 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:38:09.4081 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:38:09.4717 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:38:17.9862 INFO Books - Update: Attempted with Id:10.
+2020-11-04 22:38:18.2324 INFO Books - Update: Successful with Id:10.
+2020-11-04 22:38:18.2979 INFO Books - GetBooks: Attempted.
+2020-11-04 22:38:18.3151 INFO Books - GetBooks: Successful.
+2020-11-04 22:38:25.1896 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:38:25.2140 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:38:33.9228 INFO Books - GetBooks: Attempted.
+2020-11-04 22:38:33.9499 INFO Books - GetBooks: Successful.
+2020-11-04 22:40:05.4295 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 22:40:05.7034 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 22:40:07.9302 INFO Books - GetBooks: Attempted.
+2020-11-04 22:40:08.0797 INFO Books - GetBooks: Successful.
+2020-11-04 22:40:10.1089 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:40:10.1853 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:40:50.5014 INFO Books - Create: Attempted.
+2020-11-04 22:40:50.7592 INFO Books - Create: Successful.
+2020-11-04 22:40:50.7592 INFO Books - Create: BookStore_API.Data.Book
+2020-11-04 22:40:50.9490 INFO Books - GetBooks: Attempted.
+2020-11-04 22:40:50.9738 INFO Books - GetBooks: Successful.
+2020-11-04 22:40:56.8596 INFO Books - GetBook: Attempted with Id:1010.
+2020-11-04 22:40:56.9218 INFO Books - GetBook: Successful with Id:1010.
+2020-11-04 22:41:00.3977 INFO Books - GetBook: Attempted with Id:1010.
+2020-11-04 22:41:00.4393 INFO Books - GetBook: Successful with Id:1010.
+2020-11-04 22:41:04.2732 INFO Books - GetBooks: Attempted.
+2020-11-04 22:41:04.3117 INFO Books - GetBooks: Successful.
+2020-11-04 22:41:06.8002 INFO Books - GetBook: Attempted with Id:1010.
+2020-11-04 22:41:06.8420 INFO Books - GetBook: Successful with Id:1010.
+2020-11-04 22:41:26.2652 INFO Books - GetBooks: Attempted.
+2020-11-04 22:41:26.3022 INFO Books - GetBooks: Successful.
+2020-11-04 22:41:29.3556 INFO Books - GetBook: Attempted with Id:1010.
+2020-11-04 22:41:29.3820 INFO Books - GetBook: Successful with Id:1010.
+2020-11-04 22:41:31.5284 INFO Books - GetBook: Attempted with Id:1010.
+2020-11-04 22:41:31.5785 INFO Books - GetBook: Successful with Id:1010.
+2020-11-04 22:41:34.0174 INFO Books - Delete: Attempted with Id:1010.
+2020-11-04 22:41:34.1036 INFO Books - Delete: Successful with Id:1010.
+2020-11-04 22:41:34.1506 INFO Books - GetBooks: Attempted.
+2020-11-04 22:41:34.1804 INFO Books - GetBooks: Successful.
+2020-11-04 22:55:30.5994 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 22:55:30.8756 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 22:55:34.5917 INFO Books - GetBooks: Attempted.
+2020-11-04 22:55:34.7552 INFO Books - GetBooks: Successful.
+2020-11-04 22:55:41.1997 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:55:41.2447 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:55:41.2908 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:55:41.3509 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:55:52.0638 INFO Books - Update: Attempted with Id:10.
+2020-11-04 22:55:52.2867 INFO Books - Update: Successful with Id:10.
+2020-11-04 22:55:52.3488 INFO Books - GetBooks: Attempted.
+2020-11-04 22:55:52.3664 INFO Books - GetBooks: Successful.
+2020-11-04 22:56:02.2056 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:56:02.2326 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:56:07.8975 INFO Books - GetBooks: Attempted.
+2020-11-04 22:56:07.9246 INFO Books - GetBooks: Successful.
+2020-11-04 22:56:12.1093 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:56:12.1345 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:56:16.3639 INFO Books - GetBooks: Attempted.
+2020-11-04 22:56:16.3948 INFO Books - GetBooks: Successful.
+2020-11-04 22:56:18.4049 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:56:18.4345 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:56:18.4665 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:56:18.4866 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:56:25.7423 INFO Books - Update: Attempted with Id:10.
+2020-11-04 22:56:25.7726 INFO Books - Update: Successful with Id:10.
+2020-11-04 22:56:25.8510 INFO Books - GetBooks: Attempted.
+2020-11-04 22:56:25.8695 INFO Books - GetBooks: Successful.
+2020-11-04 22:56:32.5129 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:56:32.5377 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:56:34.8055 INFO Authors - GetAuthor: Attempted with Id:4.
+2020-11-04 22:56:34.8594 INFO Authors - GetAuthor: Successful with Id:4.
+2020-11-04 22:56:36.8039 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:56:36.8258 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:56:38.6697 INFO Authors - GetAuthor: Attempted with Id:6.
+2020-11-04 22:56:38.6899 INFO Authors - GetAuthor: Successful with Id:6.
+2020-11-04 22:56:40.2120 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:56:40.2338 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:56:43.6304 INFO Books - GetBook: Attempted with Id:10.
+2020-11-04 22:56:43.6593 INFO Books - GetBook: Successful with Id:10.
+2020-11-04 22:56:43.6943 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:56:43.7151 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:56:49.2577 INFO Books - Update: Attempted with Id:10.
+2020-11-04 22:56:49.2845 INFO Books - Update: Successful with Id:10.
+2020-11-04 22:56:49.3537 INFO Books - GetBooks: Attempted.
+2020-11-04 22:56:49.3757 INFO Books - GetBooks: Successful.
+2020-11-04 22:56:51.1716 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:56:51.1991 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:56:54.3170 INFO Authors - GetAuthor: Attempted with Id:3.
+2020-11-04 22:56:54.3382 INFO Authors - GetAuthor: Successful with Id:3.
+2020-11-04 22:56:56.3028 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:56:56.3315 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:56:57.6892 INFO Authors - GetAuthor: Attempted with Id:2.
+2020-11-04 22:56:57.7096 INFO Authors - GetAuthor: Successful with Id:2.
+2020-11-04 22:58:20.1152 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:58:20.1380 INFO Authors - GetAuthors: Successful.
+2020-11-04 22:58:39.2181 INFO Authors - Create: Attempted.
+2020-11-04 22:58:39.3207 INFO Authors - Create: Successful.
+2020-11-04 22:58:39.4079 INFO Authors - GetAuthors: Attempted.
+2020-11-04 22:58:39.4284 INFO Authors - GetAuthors: Successful.
+2020-11-04 23:00:32.3859 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-04 23:00:32.6989 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-04 23:00:35.5544 INFO Authors - GetAuthors: Attempted.
+2020-11-04 23:00:35.7633 INFO Authors - GetAuthors: Successful.
+2020-11-04 23:00:38.2525 INFO Authors - GetAuthor: Attempted with Id:1007.
+2020-11-04 23:00:38.3286 INFO Authors - GetAuthor: Successful with Id:1007.
+2020-11-04 23:00:47.1663 INFO Authors - GetAuthors: Attempted.
+2020-11-04 23:00:47.1938 INFO Authors - GetAuthors: Successful.
+2020-11-04 23:00:52.5520 INFO Authors - GetAuthor: Attempted with Id:1007.
+2020-11-04 23:00:52.5778 INFO Authors - GetAuthor: Successful with Id:1007.
+2020-11-04 23:00:54.9827 INFO Authors - Delete: Attempted with Id:1007.
+2020-11-04 23:00:55.2136 INFO Authors - Delete: Successful with Id:1007.
+2020-11-04 23:00:55.2736 INFO Authors - GetAuthors: Attempted.
+2020-11-04 23:00:55.2956 INFO Authors - GetAuthors: Successful.
+2020-11-04 23:01:04.7809 INFO Authors - GetAuthor: Attempted with Id:4.
+2020-11-04 23:01:04.8039 INFO Authors - GetAuthor: Successful with Id:4.
+2020-11-04 23:01:09.9559 INFO Authors - GetAuthors: Attempted.
+2020-11-04 23:01:09.9890 INFO Authors - GetAuthors: Successful.
+2020-11-04 23:01:12.9751 INFO Books - GetBooks: Attempted.
+2020-11-04 23:01:13.0257 INFO Books - GetBooks: Successful.
+2020-11-04 23:01:15.7110 INFO Books - GetBook: Attempted with Id:1009.
+2020-11-04 23:01:15.7508 INFO Books - GetBook: Successful with Id:1009.
+2020-11-04 23:01:15.7929 INFO Authors - GetAuthors: Attempted.
+2020-11-04 23:01:15.8117 INFO Authors - GetAuthors: Successful.
+2020-11-04 23:01:19.5755 INFO Books - Update: Attempted with Id:1009.
+2020-11-04 23:01:19.6642 INFO Books - Update: Successful with Id:1009.
+2020-11-04 23:01:19.7331 INFO Books - GetBooks: Attempted.
+2020-11-04 23:01:19.7511 INFO Books - GetBooks: Successful.

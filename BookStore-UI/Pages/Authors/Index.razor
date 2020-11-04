@@ -1,21 +1,22 @@
 ﻿@page "/authors/"
-
+@attribute [Authorize]
 @inject IAuthorRepository _repo
-<h3 class="card-title">Index</h3>
-<hr />
+<h3 class="card-title">Authors</h3>
 <br />
 @if (Model == null)
 {
-<LoadingMessage Message="Loading Authors" /> }
-            else
-            {
+<LoadingMessage Message="Loading Authors" />
+ }
+else
+{
 
-                @if (Model.Count < 1)
-                {
+@if (Model.Count < 1)
+{
 <LoadingMessage Message="There are no authors in the data store.
-                        Click 'Create New' to Begin " /> }
-                else
-                {
+                        Click 'Create New' to Begin " />
+ }
+else
+{
 <table class="table table-responsive">
     <thead>
         <tr>
@@ -43,22 +44,23 @@
             </a>
         </AuthorizeView>
     </td>
-</tr>}
+</tr>
+}
     </tbody>
 </table>}
-<AuthorizeView Roles="Administrator">
-    <a href="/authors/create" class="btn btn-outline-primary">
-        <span class="oi oi-plus"></span>
-        Create New
-    </a>
-    <br />
-</AuthorizeView>
-}
+                <AuthorizeView Roles="Administrator">
+                    <hr />
+                    <a href="/authors/create" class="btn btn-outline-primary">
+                        <span class="oi oi-plus"></span>
+                        Create New
+                    </a>
+                    <br />
+                </AuthorizeView>}
 
 @code { private IList<Author> Model;
 
-            protected async override Task OnInitializedAsync()
-            {
-                Model = await _repo.Get(Endpoints.AuthorsEndpoint);
+    protected async override Task OnInitializedAsync()
+    {
+        Model = await _repo.Get(Endpoints.AuthorsEndpoint);
 
-            } }
+    } }
