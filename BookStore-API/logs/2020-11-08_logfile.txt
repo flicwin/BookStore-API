@@ -1,0 +1,8 @@
+2020-11-08 23:35:58.9361 INFO Users - Login: Login attempt using flic@felicitywinter.com.
+2020-11-08 23:35:59.2684 INFO Users - Login: flic@felicitywinter.com authenticated.
+2020-11-08 23:36:02.0225 INFO Books - GetBooks: Attempted.
+2020-11-08 23:36:02.1924 INFO Books - GetBooks: Successful.
+2020-11-08 23:36:05.8893 INFO Books - GetBook: Attempted with Id:7.
+2020-11-08 23:36:05.9447 INFO Books - GetBook: Successful with Id:7.
+2020-11-08 23:36:08.3947 INFO Books - GetBooks: Attempted.
+2020-11-08 23:36:08.4153 INFO Books - GetBooks: Successful.
